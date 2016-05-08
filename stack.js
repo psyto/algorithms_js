@@ -30,7 +30,6 @@ console.log("The popped element is: " + popped);
 console.log(s.peek());
 s.push("Cynthia");
 console.log(s.peek());
-console.log(s.peek());
 s.push("Cryton");
 console.log(s.peek());
 
